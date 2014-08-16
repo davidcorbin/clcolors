@@ -1,0 +1,4 @@
+clcolors
+========
+
+Control CLI coloring
