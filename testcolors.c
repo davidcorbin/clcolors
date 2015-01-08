@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-//\x1b[0m
-
 int main (void) {
     int i;
     for (i = 0; i < 110; i++) {
